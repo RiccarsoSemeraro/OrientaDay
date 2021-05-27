@@ -9,8 +9,8 @@ Il primo passo è effettuare il login con il codice di cui si è in possesso. Su
 
 #crediti
 Semeraro Riccardo - riccardo.semeraro@galileo.galileicrema.it
-- Documentazione, Code, Use Case Diagram
+Documentazione, Code, Use Case Diagram
 Semorile Chau Michelangelo - michelangelo.semorilechau@galileo.galileicrema.it
-- GUI, File Diagram, Layout, Mockup
+GUI, File Diagram, Layout, Mockup
 Fasitta Gabriele - gabriele.fasitta@galileo.galileicrema.it
-- Code, Class Diagram, Layout, Mockup
+Code, Class Diagram, Layout, Mockup
