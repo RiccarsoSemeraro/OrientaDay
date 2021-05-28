@@ -20,7 +20,8 @@ Crediti
 *Semorile Chau Michelangelo*- michelangelo.semorilechau@galileo.galileicrema.it
 * GUI    
 * Layout  
-* Mockup  
+* Mockup 
+* Project Diagram   
 
 *Fasitta Gabriele* - gabriele.fasitta@galileo.galileicrema.it
 * Code    
