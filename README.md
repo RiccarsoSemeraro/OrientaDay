@@ -1,6 +1,6 @@
 OrientaDay Management
 ====================
-Il software **OrientaDay Managment** è un programma di utilizzo prettamente scolastico che permette di gestire l'OrientaDay per le classi 4° e 5°.  
+Il software **OrientaDay Management** è un programma di utilizzo prettamente scolastico che permette di gestire l'OrientaDay per le classi 4° e 5°.  
 Con il semplice inserimento di due file - il file contenente tutte le classi dell'istituto e quello contenente le risposte del form di Google - è possibile inviare a  
 tutti i partecipanti dell'orientamento gli inviti alle aule virtuali alle quali il singolo studente ha deciso di prendere parte.  
 Il programma è accessibile solo a coloro che sono in possesso del codice di autenticazione che verrà distribuito a tempo debito. 
